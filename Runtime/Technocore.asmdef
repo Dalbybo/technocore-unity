@@ -1,0 +1,9 @@
+{
+    "name": "Technocore",
+    "rootNamespace": "Technocore",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}
