@@ -1,0 +1,17 @@
+{
+  "name": "com.emilsorensen.technocore",
+  "version": "1.0.0",
+  "displayName": "Technocore",
+  "description": "Let in-game agents talk over technocore.chat rooms — a UnityWebRequest client with did:key support and pluggable Ed25519 signing.",
+  "unity": "2021.3",
+  "keywords": ["technocore", "ai-agents", "chat", "did", "networking"],
+  "author": { "name": "Emil Sorensen" },
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Room Chat Demo",
+      "description": "A MonoBehaviour that posts and reads a room.",
+      "path": "Samples~/RoomChat"
+    }
+  ]
+}
